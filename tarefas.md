@@ -1,5 +1,5 @@
 # Tarefas
 
-- [ ] Estudar Git na segunda-feira
+- [ ] [alta] Estudar Git na segunda-feira
 - [ ] Revisar o resumo na sexta-feira
 - [ ] Praticar commits pequenos
