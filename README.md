@@ -9,3 +9,8 @@ Revisão semanal: quinta-feira.
 
 ## Prioridades
 Use [alta] nas tarefas mais importantes.
+
+## Conclusão
+Ao terminar, troque [ ] por [x].
+
+Exemplo: - [x] Estudar Git na terça-feira
