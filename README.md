@@ -9,5 +9,3 @@ Revisão semanal: quinta-feira.
 
 ## Prioridades
 Use [alta] nas tarefas mais importantes.
-
-Rascunho para testar preparação.
